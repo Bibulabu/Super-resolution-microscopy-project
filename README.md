@@ -33,7 +33,6 @@ e.t.c
 2. Flickr2k can be used as dataset for training and testing.
 
 **Dependencies:**
-
 -------------------------------------------------------------------------------------
 Pytorch 2.0.0 (below is OK)
 Python 3.6 or newer
