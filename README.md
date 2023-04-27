@@ -35,6 +35,7 @@ Credit:
 2. Training(base file) https://github.com/charlesnchr/ML-SIM
 3. BioSR(experimental SIM dataset) https://figshare.com/articles/dataset/BioSR/13264793?file=25714514
 4. FairSIM https://github.com/fairSIM/fairSIM (remember to download ImageJ before using the plugin)
+5. Flickr2k dataset https://link.zhihu.com/?target=https%3A//cv.snu.ac.kr/research/EDSR/Flickr2K.tar
 
 
 
