@@ -34,9 +34,9 @@ e.t.c
 
 **Dependencies:**
 -------------------------------------------------------------------------------------
-Pytorch 2.0.0 (below is OK)
-Python 3.6 or newer
-Matlab (if needed)
+1. Pytorch 2.0.0 (below is OK)
+2. Python 3.6 or newer
+3. Matlab (if needed)
 
 
 **Credit:**
