@@ -24,7 +24,7 @@ import sys
 import glob
 import gc
 
-from MSSIM_L1_jointloss import MS_SSIM_L1_LOSS
+from SSIM_L1_jointloss import SSIM_L1_LOSS
 
 
 def options():
@@ -101,7 +101,7 @@ def train(opt, dataloader, validloader, net):
     
     
     start_epoch = 0
-    loss_function = MS_SSIM_L1_LOSS()
+    loss_function = SSIM_L1_LOSS()
 
     optimizer = optim.Adam(net.parameters(), lr=opt.lr)
     loss_function.cuda()
